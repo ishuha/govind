@@ -1,0 +1,22 @@
+.dropdown-button{
+    border-radius: 30px;
+    padding: 0 4px;
+    display: inline-flex;
+    align-items: center;
+}
+
+.dropdown-values{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+
+.dropdown-values li{
+    margin: 0px;
+    padding: 4px;
+    border-bottom: 1px solid grey;
+}
+
+.dropdown-values li:last-child{
+    border-bottom: none;
+}

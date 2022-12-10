@@ -1,0 +1,13 @@
+.main-wrapper{
+    background: #ffeef8;
+    height: 100vh;
+    padding: 0 10px;
+}
+
+/* lightpink btn = rgba(251, 17, 142, 0.24) */
+/* pink btn and text = rgb(251, 17, 142) */
+/* eth btn background = rgb(232, 236, 251) */
+
+body{
+    margin: 0px;
+}

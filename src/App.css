@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box !important;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.vertical-line:after {
+  content: "|";
+  margin-left: 6px;
+  margin-right: -4px;
+  font-weight: 400;
+  font-size: 16px;
+}
